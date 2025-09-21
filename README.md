@@ -1,0 +1,2 @@
+# NMTS_Seq2Seq_Machine_Model
+NMTS_Seq2Seq_Machine_Model Trained Model
